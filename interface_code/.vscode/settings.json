@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "asa_lib_dac00.h": "c",
+        "asa_lib.h": "c",
+        "iom128.h": "c",
+        "interrupt.h": "c"
+    }
+}

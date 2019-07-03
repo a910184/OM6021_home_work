@@ -1,0 +1,1055 @@
+Archive member included to satisfy reference by file (symbol)
+
+ASA_Lib.o(ASA_Lib_M128_HMI.o)
+                              .\ex4-3.o (ASA_M128_set)
+ASA_Lib.o(ASA_Lib_SDC00.o)    .\ex4-3.o (ASA_SDC00_get)
+ASA_Lib.o(ff.o)               ASA_Lib.o(ASA_Lib_SDC00.o) (f_mount)
+ASA_Lib.o(ASA_Core_Lib.o)     ASA_Lib.o(ASA_Lib_M128_HMI.o) (ASA_ID_set)
+ASA_Lib.o(diskio.o)           ASA_Lib.o(ff.o) (disk_ioctl)
+ASA_Lib.o(mmc_avr_spi.o)      ASA_Lib.o(diskio.o) (mmc_disk_initialize)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+                              (vfprintf)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o)
+                              (vfscanf)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+                              ASA_Lib.o(ff.o) (__mulsi3)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+                              .\ex4-3.o (__udivmodhi4)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+                              ASA_Lib.o(ff.o) (__udivmodsi4)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o (exit)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+                              .\ex4-3.o (__do_copy_data)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+                              .\ex4-3.o (__do_clear_bss)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o) (__muluhisi3)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o) (__umulhisi3)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o) (__floatunsisf)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o) (__mulsf3)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3.o) (__mulsf3x)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o) (__fp_inf)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o) (__fp_nan)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o) (__fp_pscA)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o) (__fp_pscB)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3.o) (__fp_round)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o) (__fp_split3)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o) (__fp_szero)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (__ftoa_engine)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(isspace.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o) (isspace)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(tolower.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o) (tolower)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strchr_P.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o) (strchr_P)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (strnlen_P)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (strnlen)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(fgetc.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o) (fgetc)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (fputc)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(iob.o)
+                              ASA_Lib.o(ASA_Lib_M128_HMI.o) (__iob)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(printf.o)
+                              .\ex4-3.o (printf)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(puts.o)
+                              .\ex4-3.o (puts)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+                              ASA_Lib.o(ASA_Lib_SDC00.o) (sprintf)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ungetc.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o) (ungetc)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (__ultoa_invert)
+d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(cty_isfalse.o)
+                              d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(isspace.o) (__ctype_isfalse)
+
+Allocating common symbols
+Common symbol       size              file
+
+FatFs               0x466             ASA_Lib.o(ASA_Lib_SDC00.o)
+FileObj             0x22              ASA_Lib.o(ASA_Lib_SDC00.o)
+data                0x3e8             .\ex4-3.o
+DirObj              0x28              ASA_Lib.o(ASA_Lib_SDC00.o)
+FileName            0xd               ASA_Lib.o(ASA_Lib_SDC00.o)
+__iob               0x6               d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(iob.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800100 0x000000000000ff00 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000400 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o
+LOAD .\ex4-3.o
+LOAD ASA_Lib.o
+LOAD d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a
+LOAD d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libprintf_flt.a
+LOAD d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a
+START GROUP
+LOAD d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a
+LOAD d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a
+LOAD d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a
+LOAD d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libatmega128.a
+END GROUP
+                0x0000000000020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x000000000000ff00                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xff00
+                0x0000000000010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                0x0000000000000400                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x8bce
+ *(.vectors)
+ .vectors       0x0000000000000000       0x8c d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000000000000008c                . = ALIGN (0x2)
+                0x000000000000008c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000000000008c        0x0 linker stubs
+ *(.trampolines*)
+                0x000000000000008c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ .progmem.data  0x000000000000008c        0x8 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ *libc.a:*(.progmem.data)
+ .progmem.data  0x0000000000000094       0xfa d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ *(.progmem*)
+ .progmem.data  0x000000000000018e       0x4d d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o)
+                0x00000000000001dc                . = ALIGN (0x2)
+ *fill*         0x00000000000001db        0x1 
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000001dc                __ctors_start = .
+ *(.ctors)
+                0x00000000000001dc                __ctors_end = .
+                0x00000000000001dc                __dtors_start = .
+ *(.dtors)
+                0x00000000000001dc                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000001dc        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o
+                0x00000000000001dc                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000001dc        0xc d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000001e8       0x1a d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+                0x00000000000001e8                __do_copy_data
+ .init4         0x0000000000000202       0x10 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+                0x0000000000000202                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000212        0x8 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o
+ *(.init9)
+ *(.text)
+ .text          0x000000000000021a        0x4 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o
+                0x000000000000021a                __vector_22
+                0x000000000000021a                __vector_28
+                0x000000000000021a                __vector_1
+                0x000000000000021a                __vector_32
+                0x000000000000021a                __vector_34
+                0x000000000000021a                __vector_24
+                0x000000000000021a                __bad_interrupt
+                0x000000000000021a                __vector_6
+                0x000000000000021a                __vector_31
+                0x000000000000021a                __vector_3
+                0x000000000000021a                __vector_23
+                0x000000000000021a                __vector_30
+                0x000000000000021a                __vector_25
+                0x000000000000021a                __vector_11
+                0x000000000000021a                __vector_13
+                0x000000000000021a                __vector_17
+                0x000000000000021a                __vector_19
+                0x000000000000021a                __vector_7
+                0x000000000000021a                __vector_27
+                0x000000000000021a                __vector_5
+                0x000000000000021a                __vector_33
+                0x000000000000021a                __vector_4
+                0x000000000000021a                __vector_9
+                0x000000000000021a                __vector_2
+                0x000000000000021a                __vector_21
+                0x000000000000021a                __vector_15
+                0x000000000000021a                __vector_29
+                0x000000000000021a                __vector_8
+                0x000000000000021a                __vector_26
+                0x000000000000021a                __vector_14
+                0x000000000000021a                __vector_10
+                0x000000000000021a                __vector_16
+                0x000000000000021a                __vector_18
+                0x000000000000021a                __vector_20
+ .text          0x000000000000021e       0xc2 .\ex4-3.o
+                0x000000000000021e                pwm_set
+                0x000000000000024e                __vector_12
+ .text          0x00000000000002e0      0x4d2 ASA_Lib.o(ASA_Lib_M128_HMI.o)
+                0x00000000000002e0                uart_put
+                0x000000000000033a                uart_get
+                0x000000000000038c                M128_HMI_set
+                0x00000000000003ae                M128_HMI_timeout_set
+                0x00000000000003cc                HMI_timeout_set
+                0x000000000000040a                M128_HMI_get
+                0x000000000000048e                update_status
+                0x00000000000004fa                M128_HMI_put
+                0x0000000000000594                stdio_putchar
+                0x00000000000005b0                stdio_getchar
+                0x00000000000005c8                ASA_M128_set
+                0x0000000000000622                M128_HMI_Form_get
+                0x00000000000006ea                M128_HMI_Form_put
+ .text          0x00000000000007b2      0x5b2 ASA_Lib.o(ASA_Lib_SDC00.o)
+                0x00000000000007b2                check_info
+                0x0000000000000846                ASA_SDC00_Deselect
+                0x0000000000000860                ASA_SDC00_Select
+                0x000000000000087a                ASA_SDC00_get
+                0x0000000000000a10                ASA_SDC00_Init
+                0x0000000000000a90                ASA_SDC00_set
+                0x0000000000000bbc                ASA_SDC00_put
+ .text          0x0000000000000d64     0x522c ASA_Lib.o(ff.o)
+                0x0000000000000f78                f_chdrive
+                0x0000000000000fa6                f_mkfs
+                0x0000000000001e74                f_closedir
+                0x00000000000025f2                f_mount
+                0x0000000000003136                f_lseek
+                0x000000000000364e                f_truncate
+                0x00000000000037f2                f_readdir
+                0x00000000000038f8                f_setlabel
+                0x0000000000003b54                f_getlabel
+                0x0000000000003f8c                f_utime
+                0x000000000000402e                f_chmod
+                0x00000000000040be                f_stat
+                0x0000000000004142                f_opendir
+                0x00000000000041f0                f_chdir
+                0x00000000000042fc                f_mkdir
+                0x0000000000004506                f_rename
+                0x000000000000478a                f_unlink
+                0x00000000000048e0                f_getfree
+                0x0000000000004b08                f_getcwd
+                0x0000000000004d58                f_sync
+                0x0000000000004e12                f_close
+                0x0000000000004e4e                f_write
+                0x0000000000005362                f_printf
+                0x0000000000005704                f_puts
+                0x000000000000576e                f_putc
+                0x00000000000057c2                f_open
+                0x0000000000005baa                f_read
+                0x0000000000005ede                f_gets
+ .text          0x0000000000005f90      0x418 ASA_Lib.o(ASA_Core_Lib.o)
+                0x0000000000005f90                ASA_ID_check
+                0x0000000000005f9c                ASA_ID_set
+                0x0000000000005fb8                UART1_putchar
+                0x0000000000005fd0                UART1_getchar
+                0x0000000000005fde                SPI_Transfer
+                0x0000000000005fe8                SPI_Receive
+                0x0000000000005ff2                ASA_putchar
+                0x000000000000601c                ASA_getchar
+                0x000000000000605a                PC_putchar
+                0x0000000000006062                PC_getchar
+                0x000000000000606a                TWI_ERROR
+                0x0000000000006072                TWI_Start
+                0x0000000000006098                TWI_Stop
+                0x00000000000060a0                TWI_ReStart
+                0x00000000000060c6                TWI_SendSLAW
+                0x00000000000060f0                TWI_SendSLAR
+                0x0000000000006118                TWI_TransmitData
+                0x000000000000613c                TWI_ReceiveData
+                0x0000000000006160                TWI_SendNoAck
+                0x0000000000006180                TWI_wr
+                0x00000000000061b0                TWI_rd
+                0x00000000000061ea                TWI_initialize
+                0x00000000000061f0                TWI_Write
+                0x0000000000006296                TWI_Read
+ .text          0x00000000000063a8       0x70 ASA_Lib.o(diskio.o)
+                0x00000000000063a8                disk_timerproc
+                0x00000000000063ae                disk_ioctl
+                0x00000000000063c0                disk_write
+                0x00000000000063de                disk_read
+                0x00000000000063fc                disk_initialize
+                0x000000000000640a                disk_status
+ .text          0x0000000000006418      0xf86 ASA_Lib.o(mmc_avr_spi.o)
+                0x0000000000006718                mmc_disk_initialize
+                0x00000000000069de                mmc_disk_status
+                0x00000000000069e4                mmc_disk_read
+                0x0000000000006a8c                mmc_disk_write
+                0x0000000000006b7c                mmc_disk_ioctl
+                0x0000000000007332                mmc_disk_timerproc
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(isspace.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(tolower.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strchr_P.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(fgetc.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(iob.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(printf.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(puts.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ungetc.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .text          0x000000000000739e        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(cty_isfalse.o)
+                0x000000000000739e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x000000000000739e      0x15a .\ex4-3.o
+                0x000000000000739e                main
+ .text.avr-libc
+                0x00000000000074f8      0x714 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+                0x00000000000074f8                vfprintf
+ .text.avr-libc
+                0x0000000000007c0c      0x84c d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o)
+                0x00000000000081f2                vfscanf
+ .text.libgcc.mul
+                0x0000000000008458       0x20 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+                0x0000000000008458                __mulsi3
+ .text.libgcc.div
+                0x0000000000008478        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x0000000000008478        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x0000000000008478        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x0000000000008478        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x0000000000008478        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x0000000000008478        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .text.libgcc.mul
+                0x0000000000008478        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x0000000000008478       0x28 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+                0x0000000000008478                __udivmodhi4
+ .text.libgcc   0x00000000000084a0        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000000084a0        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000000084a0        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000000084a0        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000000084a0        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000000084a0        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00000000000084a0       0x44 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+                0x00000000000084a0                __udivmodsi4
+ .text.libgcc   0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000000084e4        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000000084e4       0x16 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+                0x00000000000084e4                __muluhisi3
+ .text.libgcc.div
+                0x00000000000084fa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000000084fa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000000084fa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000000084fa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000000084fa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000000084fa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x00000000000084fa       0x1e d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+                0x00000000000084fa                __umulhisi3
+ .text.libgcc.div
+                0x0000000000008518        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000008518        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000008518        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000008518        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000008518        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000008518        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+ .text.avr-libc.fplib
+                0x0000000000008518       0x7a d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                0x0000000000008518                __floatunsisf
+                0x000000000000851c                __floatsisf
+ .text.avr-libc.fplib
+                0x0000000000008592        0x8 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                0x0000000000008592                __mulsf3
+ .text.avr-libc.fplib
+                0x000000000000859a       0xd2 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                0x00000000000085b8                __mulsf3x
+                0x00000000000085be                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x000000000000866c        0xc d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                0x000000000000866c                __fp_inf
+ .text.avr-libc.fplib
+                0x0000000000008678        0x6 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                0x0000000000008678                __fp_nan
+ .text.avr-libc.fplib
+                0x000000000000867e        0xe d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                0x000000000000867e                __fp_pscA
+ .text.avr-libc.fplib
+                0x000000000000868c        0xe d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                0x000000000000868c                __fp_pscB
+ .text.avr-libc.fplib
+                0x000000000000869a       0x22 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                0x000000000000869a                __fp_round
+ .text.avr-libc.fplib
+                0x00000000000086bc       0x44 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                0x00000000000086bc                __fp_split3
+                0x00000000000086cc                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000000000008700        0xe d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                0x0000000000008700                __fp_zero
+                0x0000000000008702                __fp_szero
+ .text.avr-libc
+                0x000000000000870e      0x1b0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+                0x000000000000870e                __ftoa_engine
+ .text.avr-libc
+                0x00000000000088be       0x12 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(isspace.o)
+                0x00000000000088be                isspace
+ .text.avr-libc
+                0x00000000000088d0       0x10 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(tolower.o)
+                0x00000000000088d0                tolower
+ .text.avr-libc
+                0x00000000000088e0       0x16 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strchr_P.o)
+                0x00000000000088e0                strchr_P
+ .text.avr-libc
+                0x00000000000088f6       0x16 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                0x00000000000088f6                strnlen_P
+ .text.avr-libc
+                0x000000000000890c       0x16 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                0x000000000000890c                strnlen
+ .text.avr-libc
+                0x0000000000008922       0x78 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(fgetc.o)
+                0x0000000000008922                fgetc
+ .text.avr-libc
+                0x000000000000899a       0x60 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+                0x000000000000899a                fputc
+ .text.avr-libc
+                0x00000000000089fa       0x28 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(printf.o)
+                0x00000000000089fa                printf
+ .text.avr-libc
+                0x0000000000008a22       0x56 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(puts.o)
+                0x0000000000008a22                puts
+ .text.avr-libc
+                0x0000000000008a78       0x60 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+                0x0000000000008a78                sprintf
+ .text.avr-libc
+                0x0000000000008ad8       0x30 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ungetc.o)
+                0x0000000000008ad8                ungetc
+ .text.avr-libc
+                0x0000000000008b08       0xbc d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                0x0000000000008b08                __ultoa_invert
+ .text.avr-libc
+                0x0000000000008bc4        0x6 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(cty_isfalse.o)
+                0x0000000000008bc4                __ctype_isfalse
+                0x0000000000008bc8                __ctype_istrue
+                0x0000000000008bca                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000008bca        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+                0x0000000000008bca                _exit
+                0x0000000000008bca                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000008bca        0x4 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+                0x0000000000008bce                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x0000000000008bce                _etext = .
+
+.data           0x0000000000800100      0x142 load address 0x0000000000008bce
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800100        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o
+ .data          0x0000000000800100        0x0 .\ex4-3.o
+ .data          0x0000000000800100       0x13 ASA_Lib.o(ASA_Lib_M128_HMI.o)
+                0x0000000000800100                Timeout
+                0x0000000000800104                TimeoutMode
+ .data          0x0000000000800113       0x1d ASA_Lib.o(ASA_Lib_SDC00.o)
+                0x0000000000800126                ASA_DATA_Dir
+                0x000000000080012f                ASA_SDC00_ID
+ .data          0x0000000000800130       0x79 ASA_Lib.o(ff.o)
+ .data          0x00000000008001a9        0x0 ASA_Lib.o(ASA_Core_Lib.o)
+ .data          0x00000000008001a9        0x0 ASA_Lib.o(diskio.o)
+ .data          0x00000000008001a9        0x1 ASA_Lib.o(mmc_avr_spi.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(isspace.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(tolower.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strchr_P.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(fgetc.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(iob.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(printf.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(puts.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ungetc.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .data          0x00000000008001aa        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(cty_isfalse.o)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00000000008001aa       0x98 .\ex4-3.o
+ *(.gnu.linkonce.r*)
+                0x0000000000800242                . = ALIGN (0x2)
+                0x0000000000800242                _edata = .
+                0x0000000000800242                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800242      0x8f0
+                0x0000000000800242                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0000000000800242        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o
+ .bss           0x0000000000800242        0x2 .\ex4-3.o
+                0x0000000000800242                i
+ .bss           0x0000000000800244        0x6 ASA_Lib.o(ASA_Lib_M128_HMI.o)
+                0x0000000000800244                timeout_count
+ .bss           0x000000000080024a       0x2c ASA_Lib.o(ASA_Lib_SDC00.o)
+                0x000000000080024a                FileID
+                0x000000000080024c                SDC_State
+                0x000000000080024d                is_file_extcheck
+                0x000000000080024e                EndPointOfFile
+                0x0000000000800252                LastFileIndex
+ .bss           0x0000000000800276        0x7 ASA_Lib.o(ff.o)
+ .bss           0x000000000080027d        0x1 ASA_Lib.o(ASA_Core_Lib.o)
+ .bss           0x000000000080027e        0x0 ASA_Lib.o(diskio.o)
+ .bss           0x000000000080027e        0x9 ASA_Lib.o(mmc_avr_spi.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(isspace.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(tolower.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strchr_P.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(fgetc.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(iob.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(printf.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(puts.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ungetc.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ .bss           0x0000000000800287        0x0 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(cty_isfalse.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x0000000000800287      0x3e8 .\ex4-3.o
+                0x0000000000800287                data
+ COMMON         0x000000000080066f      0x4bd ASA_Lib.o(ASA_Lib_SDC00.o)
+                0x000000000080066f                FatFs
+                0x0000000000800ad5                FileObj
+                0x0000000000800af7                DirObj
+                0x0000000000800b1f                FileName
+ COMMON         0x0000000000800b2c        0x6 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(iob.o)
+                0x0000000000800b2c                __iob
+                0x0000000000800b32                PROVIDE (__bss_end, .)
+                0x0000000000008bce                __data_load_start = LOADADDR (.data)
+                0x0000000000008d10                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800b32        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800b32                _end = .
+                [!provide]                        PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 .\ex4-3.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .comment       0x0000000000000011       0x12 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libscanf_flt.a(vfscanf_flt.o)
+ .comment       0x0000000000000011       0x12 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(fgetc.o)
+ .comment       0x0000000000000011       0x12 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .comment       0x0000000000000011       0x12 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(iob.o)
+ .comment       0x0000000000000011       0x12 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(printf.o)
+ .comment       0x0000000000000011       0x12 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(puts.o)
+ .comment       0x0000000000000011       0x12 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(sprintf.o)
+ .comment       0x0000000000000011       0x12 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51\libc.a(ungetc.o)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x1e8
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 .\ex4-3.o
+ .debug_aranges
+                0x0000000000000028       0x20 ASA_Lib.o(ASA_Lib_M128_HMI.o)
+ .debug_aranges
+                0x0000000000000048       0x20 ASA_Lib.o(ASA_Lib_SDC00.o)
+ .debug_aranges
+                0x0000000000000068       0x20 ASA_Lib.o(ff.o)
+ .debug_aranges
+                0x0000000000000088       0x20 ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_aranges
+                0x00000000000000a8       0x20 ASA_Lib.o(diskio.o)
+ .debug_aranges
+                0x00000000000000c8       0x20 ASA_Lib.o(mmc_avr_spi.o)
+ .debug_aranges
+                0x00000000000000e8       0x20 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .debug_aranges
+                0x0000000000000108       0x20 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x0000000000000128       0x20 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .debug_aranges
+                0x0000000000000148       0x20 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .debug_aranges
+                0x0000000000000168       0x20 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x0000000000000188       0x20 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x00000000000001a8       0x20 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .debug_aranges
+                0x00000000000001c8       0x20 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+
+.debug_pubnames
+                0x0000000000000000      0x669
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x0000000000000000      0x12d ASA_Lib.o(ASA_Lib_M128_HMI.o)
+ .debug_pubnames
+                0x000000000000012d      0x139 ASA_Lib.o(ASA_Lib_SDC00.o)
+ .debug_pubnames
+                0x0000000000000266      0x172 ASA_Lib.o(ff.o)
+ .debug_pubnames
+                0x00000000000003d8      0x18f ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_pubnames
+                0x0000000000000567       0x75 ASA_Lib.o(diskio.o)
+ .debug_pubnames
+                0x00000000000005dc       0x8d ASA_Lib.o(mmc_avr_spi.o)
+
+.debug_info     0x0000000000000000     0x6358
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x780 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o
+ .debug_info    0x0000000000000780      0x413 .\ex4-3.o
+ .debug_info    0x0000000000000b93      0x5cf ASA_Lib.o(ASA_Lib_M128_HMI.o)
+ .debug_info    0x0000000000001162      0x93a ASA_Lib.o(ASA_Lib_SDC00.o)
+ .debug_info    0x0000000000001a9c     0x30f3 ASA_Lib.o(ff.o)
+ .debug_info    0x0000000000004b8f      0x852 ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_info    0x00000000000053e1      0x233 ASA_Lib.o(diskio.o)
+ .debug_info    0x0000000000005614      0xc14 ASA_Lib.o(mmc_avr_spi.o)
+ .debug_info    0x0000000000006228       0x26 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .debug_info    0x000000000000624e       0x26 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .debug_info    0x0000000000006274       0x26 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .debug_info    0x000000000000629a       0x26 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .debug_info    0x00000000000062c0       0x26 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .debug_info    0x00000000000062e6       0x26 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .debug_info    0x000000000000630c       0x26 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .debug_info    0x0000000000006332       0x26 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+
+.debug_abbrev   0x0000000000000000     0x15e2
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x718 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o
+ .debug_abbrev  0x0000000000000718      0x204 .\ex4-3.o
+ .debug_abbrev  0x000000000000091c      0x1c4 ASA_Lib.o(ASA_Lib_M128_HMI.o)
+ .debug_abbrev  0x0000000000000ae0      0x236 ASA_Lib.o(ASA_Lib_SDC00.o)
+ .debug_abbrev  0x0000000000000d16      0x2a8 ASA_Lib.o(ff.o)
+ .debug_abbrev  0x0000000000000fbe      0x234 ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_abbrev  0x00000000000011f2       0xc7 ASA_Lib.o(diskio.o)
+ .debug_abbrev  0x00000000000012b9      0x289 ASA_Lib.o(mmc_avr_spi.o)
+ .debug_abbrev  0x0000000000001542       0x14 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .debug_abbrev  0x0000000000001556       0x14 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x000000000000156a       0x14 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x000000000000157e       0x14 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .debug_abbrev  0x0000000000001592       0x14 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000000000015a6       0x14 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x00000000000015ba       0x14 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .debug_abbrev  0x00000000000015ce       0x14 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+
+.debug_line     0x0000000000000000     0x5174
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1d d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o
+ .debug_line    0x000000000000001d      0x19f .\ex4-3.o
+ .debug_line    0x00000000000001bc      0x4c9 ASA_Lib.o(ASA_Lib_M128_HMI.o)
+ .debug_line    0x0000000000000685      0x521 ASA_Lib.o(ASA_Lib_SDC00.o)
+ .debug_line    0x0000000000000ba6     0x2c33 ASA_Lib.o(ff.o)
+ .debug_line    0x00000000000037d9      0x6a7 ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_line    0x0000000000003e80      0x125 ASA_Lib.o(diskio.o)
+ .debug_line    0x0000000000003fa5      0xc69 ASA_Lib.o(mmc_avr_spi.o)
+ .debug_line    0x0000000000004c0e       0xaf d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .debug_line    0x0000000000004cbd       0xcd d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .debug_line    0x0000000000004d8a      0x121 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .debug_line    0x0000000000004eab       0x61 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .debug_line    0x0000000000004f0c       0xa3 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .debug_line    0x0000000000004faf       0x85 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .debug_line    0x0000000000005034       0x91 d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .debug_line    0x00000000000050c5       0xaf d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+
+.debug_frame    0x0000000000000000      0x840
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0xc0 .\ex4-3.o
+ .debug_frame   0x00000000000000c0       0xe0 ASA_Lib.o(ASA_Lib_M128_HMI.o)
+ .debug_frame   0x00000000000001a0       0x80 ASA_Lib.o(ASA_Lib_SDC00.o)
+ .debug_frame   0x0000000000000220      0x360 ASA_Lib.o(ff.o)
+ .debug_frame   0x0000000000000580      0x190 ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_frame   0x0000000000000710       0x70 ASA_Lib.o(diskio.o)
+ .debug_frame   0x0000000000000780       0xc0 ASA_Lib.o(mmc_avr_spi.o)
+
+.debug_str      0x0000000000000000     0x107f
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x27d d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/../../../../avr/lib/avr51/crtatmega128.o
+ .debug_str     0x000000000000027d      0x197 .\ex4-3.o
+                                        0x1f1 (size before relaxing)
+ .debug_str     0x0000000000000414      0x19b ASA_Lib.o(ASA_Lib_M128_HMI.o)
+                                        0x2a9 (size before relaxing)
+ .debug_str     0x00000000000005af      0x3b3 ASA_Lib.o(ASA_Lib_SDC00.o)
+                                        0x4c4 (size before relaxing)
+ .debug_str     0x0000000000000962      0x400 ASA_Lib.o(ff.o)
+                                        0x6ef (size before relaxing)
+ .debug_str     0x0000000000000d62      0x18b ASA_Lib.o(ASA_Core_Lib.o)
+                                        0x285 (size before relaxing)
+ .debug_str     0x0000000000000eed       0x11 ASA_Lib.o(diskio.o)
+                                        0x142 (size before relaxing)
+ .debug_str     0x0000000000000efe      0x122 ASA_Lib.o(mmc_avr_spi.o)
+                                        0x24a (size before relaxing)
+ .debug_str     0x0000000000001020       0x5f d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_mulsi3.o)
+ .debug_str     0x000000000000107f       0x5f d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodhi4.o)
+ .debug_str     0x000000000000107f       0x5f d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_udivmodsi4.o)
+ .debug_str     0x000000000000107f       0x5f d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_exit.o)
+ .debug_str     0x000000000000107f       0x5f d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_copy_data.o)
+ .debug_str     0x000000000000107f       0x5f d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_clear_bss.o)
+ .debug_str     0x000000000000107f       0x5f d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_muluhisi3.o)
+ .debug_str     0x000000000000107f       0x5f d:/avr-gcc-7.2.0-x64-mingw/bin/../lib/gcc/avr/7.2.0/avr51\libgcc.a(_umulhisi3.o)
+
+.debug_loc      0x0000000000000000     0x73fa
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x238 .\ex4-3.o
+ .debug_loc     0x0000000000000238      0x6a7 ASA_Lib.o(ASA_Lib_M128_HMI.o)
+ .debug_loc     0x00000000000008df      0x573 ASA_Lib.o(ASA_Lib_SDC00.o)
+ .debug_loc     0x0000000000000e52     0x588c ASA_Lib.o(ff.o)
+ .debug_loc     0x00000000000066de      0x476 ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_loc     0x0000000000006b54      0x1c9 ASA_Lib.o(diskio.o)
+ .debug_loc     0x0000000000006d1d      0x6dd ASA_Lib.o(mmc_avr_spi.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x1e8
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x30 .\ex4-3.o
+ .debug_ranges  0x0000000000000030       0x30 ASA_Lib.o(ASA_Lib_SDC00.o)
+ .debug_ranges  0x0000000000000060      0x110 ASA_Lib.o(ff.o)
+ .debug_ranges  0x0000000000000170       0x18 ASA_Lib.o(ASA_Core_Lib.o)
+ .debug_ranges  0x0000000000000188       0x60 ASA_Lib.o(mmc_avr_spi.o)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+OUTPUT(.\ex4-3.elf elf32-avr)
+LOAD linker stubs

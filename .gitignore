@@ -1,0 +1,10 @@
+*.pdf
+*.tar
+*.zip
+*.tar.gz
+*.odt
+*.txt
+*.hex
+*.odt#
+*.mat
+ASA_HMI_Data_Agent
