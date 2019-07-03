@@ -7,4 +7,6 @@
 *.hex
 *.odt#
 *.mat
+*.map
 ASA_HMI_Data_Agent
+
